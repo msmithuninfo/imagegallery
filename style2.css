@@ -1,0 +1,24 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.ami{
+	flex-wrap: wrap;
+	display: flex;
+}
+.column{
+	padding: 0px 10px;
+    flex: 33.33%;
+    max-width: 33.33%;
+    box-sizing: border-box;
+    margin-top: 5px;
+}
+
+img{
+	height: 200px;
+    border-radius: 20px;
+    vertical-align: middle;
+    width: 100%;
+    padding: 10px;
+
+}
